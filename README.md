@@ -1,6 +1,6 @@
 # Frankenstein
 
-I would actually be Frankenstein. The code would more or less be Frankenstein's monster
+technically I would be Frankenstein and the code would more or less be my monster, but I like it the way it is.
 
 This python(?) program is just made of different snippets of code I found online and some self-made stuff cause why not.
 
